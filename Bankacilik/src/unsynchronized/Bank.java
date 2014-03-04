@@ -1,7 +1,7 @@
 package unsynchronized;
 public class Bank {
 	// Akif Hatipoðlu
-	//Github Deneme
+	//Github Deneme11
 	// accounts
 	private final double[] hesap;
 
